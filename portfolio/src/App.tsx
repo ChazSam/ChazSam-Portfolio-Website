@@ -3,8 +3,16 @@
 function App() {
   return (
     <>
-      <p className="read-the-docs text-3xl ">Hello world</p>
-      <p className="color bg-green-900">test</p>
+    <header>
+      <p className="header font-family: Roboto text-9xl font-bold text-center ">Chaz Sam</p>
+
+    </header>
+      <body>
+        <h1>Hi, I'm Chaz Sam</h1>
+        <h2></h2>
+      </body>
+
+      <footer></footer>
     </>
   );
 }
